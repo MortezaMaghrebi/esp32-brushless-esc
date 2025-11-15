@@ -3,7 +3,7 @@
 This project demonstrates how to calibrate, arm, and control a brushless motor Electronic Speed Controller (ESC) using an **ESP32** and the **ESP32Servo** library.  
 The code performs an automatic calibration sequence (max → min throttle) and then allows you to control the motor throttle (0–100%) through the Serial Monitor.
 
-<img src="ReadmeAssets/schematic.png" width="270"/>
+<img src="ReadmeAssets/schematic.png" height="270"/>
 ---
 
 ## 🔧 Hardware Requirements
