@@ -17,7 +17,7 @@ The code performs an automatic calibration sequence (max → min throttle) and t
 
 > **Important:**  
 > Never power the motor through USB. Always power the ESC using a proper LiPo battery.  
-> Remove propellers during testing.
+> ⚠ Remove propellers during testing.
 
 ---
 
